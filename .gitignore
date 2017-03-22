@@ -7,3 +7,4 @@ README.txt
 .DS_Store
 .metadata/*.*
 classes
+build.number
