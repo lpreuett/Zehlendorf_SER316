@@ -1,6 +1,7 @@
 ﻿Project SER316
 
 ### This is mrmairel making an attempt at a initial commit.
+### Edited config file and trying again.
 
 # spring17project
 This is the initial dump for the ser316 spring 2017 project. It is a slightly modified version of the Memoranda project from memoranda.sf.net
