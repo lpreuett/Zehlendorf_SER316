@@ -6,3 +6,6 @@ README.txt
 .project
 .DS_Store
 .metadata/*.*
+
+classes
+build.number
